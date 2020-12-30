@@ -1,6 +1,7 @@
 ---
 layout: page
 excerpt: "Releases"
+permalink: /releases
 ---
 
 ### Current release
