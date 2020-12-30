@@ -16,4 +16,4 @@ We are gradually migrating PROxIMA. The first public release is tentatively sche
 
 ### Current version
 
-[0.2.0. M1](https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/updates/releases/latest) (Eclipse update site)
+[0.2.0.202011102050 M1](https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/updates/releases/latest) (Eclipse update site)
