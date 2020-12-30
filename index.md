@@ -1,4 +1,4 @@
-# *PRO*cess engineering with *I*nconsistency *MA*nagement
+#### *PRO*cess engineering with *I*nconsistency *MA*nagement
 
 [![License](https://img.shields.io/badge/License-EPL--2.0-ce03fc.svg)](https://opensource.org/licenses/EPL-2.0)
 
