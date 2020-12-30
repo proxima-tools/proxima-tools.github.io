@@ -1,6 +1,7 @@
 ---
 layout: page
-excerpt: "Home"
+title: "Home"
+permalink: /releases
 ---
 
 <img src="https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/artwork/logo.png" width="160">
