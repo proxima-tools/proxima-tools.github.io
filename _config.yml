@@ -1,9 +1,2 @@
 theme: jekyll-theme-dinky
 title: PROxIMA Tools
-
-# Site navigation links
-- title: Home
-  url: /
-
-- title: Releases
-  url: /releases/
