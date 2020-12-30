@@ -1,4 +1,4 @@
-<img src="https://github.com/proxima-tools/proxima-tools.github.io/blob/main/artwork/logo.png" width="160">
+<img src="https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/artwork/logo.png" width="160">
 ### *PRO*cess engineering with *I*nconsistency *MA*nagement
 
 [![License](https://img.shields.io/badge/License-EPL--2.0-ce03fc.svg)](https://opensource.org/licenses/EPL-2.0)
