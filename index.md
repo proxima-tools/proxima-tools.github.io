@@ -13,3 +13,7 @@ The features of the framework include:
 
 
 We are gradually migrating PROxIMA. The first public release is tentatively scheduled for Q1/2021.
+
+### Current version
+
+[0.2.0. M1](https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/updates/releases/latest) (Eclipse update site)
