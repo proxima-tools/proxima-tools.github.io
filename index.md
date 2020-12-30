@@ -1,3 +1,8 @@
+---
+layout: page
+excerpt: "Home"
+---
+
 <img src="https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/artwork/logo.png" width="160">
 ### *PRO*cess engineering with *I*nconsistency *MA*nagement
 

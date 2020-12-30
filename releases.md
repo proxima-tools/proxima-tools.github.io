@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Releases
+excerpt: "Releases"
 ---
 
-# Releases
-
-- 0.2
+### Current release
+-[0.2.0](http://istvandavid.com/proxima/)
