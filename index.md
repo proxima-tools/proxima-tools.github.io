@@ -19,9 +19,3 @@ The features of the framework include:
 
 
 We are gradually migrating the source code. The first public release (0.2.0) is tentatively scheduled for Q1/2021.
-
-## Latest version
-
-[0.2.0 M1](https://raw.githubusercontent.com/proxima-tools/proxima-tools.github.io/main/updates/milestones/0.2.0M1) [build 0.2.0.202011102050] (Eclipse update site)
-
-The list of available versions (previous and current, milestone and release builds) can be found [here](/releases).
