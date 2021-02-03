@@ -23,6 +23,7 @@ description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://proximatools.org/"
 github_username:  proxima-tools
+show_excerpts: true
 
 # Build settings
 theme: minima

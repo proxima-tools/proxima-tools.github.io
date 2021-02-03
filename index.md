@@ -16,6 +16,3 @@ The features of the framework include:
  -  A fully modeled process enactment module.
  -  A process simulation and optimization module, with the ability to rewrite the process.
  -  The catalogue of inconsistency patterns and the catalogue of management patterns is fully extensible.
-
-
-We are gradually migrating the source code. The first public release (0.2.0) is tentatively scheduled for Q1/2021.
